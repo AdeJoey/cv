@@ -1,0 +1,6 @@
+body {margin: 0px; background-color: black;}
+hr {height: 0 px;width: 5px; border-style: dotted;border-radius: 5px;}
+button {position: relative;left: 800px;bottom: 70px;background-color:black;border: 0px;margin-top: 0px}
+.topic {position: relative;right: 180px;top: 0px; width: 50;margin-top: 0px; display: inline-block;}
+.test1 {background-color: blue;width: 100%;height: 200px; margin: 0px;}
+img {width: 100px;height: 100px; position: relative; right: 200px;top: 30px;margin-top: 0px;}
